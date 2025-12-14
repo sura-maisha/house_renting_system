@@ -1,0 +1,9 @@
+*{font-family: Arial, sans-serif} body{max-width:900px;margin:20px auto;padding:10px}
+header{display:flex;justify-content:space-between;align-items:center}
+nav a{margin-left:10px;text-decoration:none}
+.house{border:1px solid #ddd;padding:10px;margin:10px 0;display:flex;gap:10px}
+.house img{width:140px;height:100px;object-fit:cover}
+label{display:block;margin-top:8px}
+input,textarea,button{display:block;padding:6px;margin-top:4px;width:300px}
+.error{color:#b00020} .success{color:green}
+.request{border:1px dashed #ccc;padding:8px;margin:8px 0}
