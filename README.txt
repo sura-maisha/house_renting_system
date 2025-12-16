@@ -1,1 +1,0 @@
-Place files in your XAMPP htdocs folder. Import database.sql using phpMyAdmin. Ensure uploads/ folder writable (chmod 777 uploads) on server if needed.
